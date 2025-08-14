@@ -5,6 +5,7 @@ description = "Consolidate just the data from the first tab of multiple Excel xl
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "openpyxl>=3.1.5",
     "pandas>=2.3.1",
     "pytz>=2025.2",
     "rich>=14.1.0",
